@@ -5,5 +5,7 @@
 
 ## Useful link
 
-* COMSOL models: https://www.comsol.com/models
+* COMSOL Model gallery: https://www.comsol.com/models
 * COMSOL Learning Center: https://www.comsol.com/learning-center
+* web-workshop to learn: http://cn.comsol.com/c/9yqt
+* Event Calendar: http://cn.comsol.com/events/
