@@ -9,3 +9,7 @@
 * COMSOL Learning Center: https://www.comsol.com/learning-center
 * web-workshop to learn: http://cn.comsol.com/c/9yqt
 * Event Calendar: http://cn.comsol.com/events/
+* COMSOL CN 视频课程中心: http://cn.comsol.com/video-training
+  * https://www.bilibili.com/video/BV1XE411P7hk?spm_id_from=333.337.search-card.all.click
+* COMSOL CN 半导体: http://cn.comsol.com/video/optimizing-semiconductor-device-performance-in-comsol-multiphysics-webinar-cn
+  * https://www.bilibili.com/video/BV1Qv411i7iS?spm_id_from=333.337.search-card.all.click
