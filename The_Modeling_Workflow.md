@@ -87,3 +87,7 @@ The modeling workflow consists of the following steps:
 * 返回：左上角的"MB(模型开发器)"
 * “New form” ---> 添加想要的数据和变量 --->ok
 * “Test Application（测试app）” Menu 即可测试app
+
+## 其他的功能
+
+* APP案例库：(在APP界面)"File" Menu  ---> Application labaries
