@@ -13,3 +13,4 @@
   * https://www.bilibili.com/video/BV1XE411P7hk?spm_id_from=333.337.search-card.all.click
 * COMSOL CN 半导体: http://cn.comsol.com/video/optimizing-semiconductor-device-performance-in-comsol-multiphysics-webinar-cn
   * https://www.bilibili.com/video/BV1Qv411i7iS?spm_id_from=333.337.search-card.all.click
+* COMSOL 往期网络研讨会视频汇总： http://cn.comsol.com/offers/archived-webinars-cn?utm_source=Webinar+demail+%E5%BE%80%E6%9C%9F%E7%A0%94%E8%AE%A8%E4%BC%9A&utm_campaign=cn_Webinar_Q1_2022&utm_medium=Demail&utm_content=12
