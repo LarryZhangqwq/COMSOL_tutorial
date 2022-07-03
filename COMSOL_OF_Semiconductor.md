@@ -44,4 +44,14 @@ Link: https://www.comsol.com/semiconductor-module
 
 ![截屏2022-07-03 下午12.11.48](Image_of_COMSOL_OF_Semiconductor/截屏2022-07-03 下午12.11.48.png)
 
+Link：http://cn.comsol.com/video/optimizing-semiconductor-device-performance-in-comsol-multiphysics-webinar-cn 第三十分钟
+
+### 1.1 预先设置：
+
 **半导体分析一般使用二维**，因为三维网格密度大，计算量大
+
+二维研究，添加半导体结构，选择“稳态”研究。
+
+### 1.2 设置参数：
+
+![截屏2022-07-03 下午3.27.09](Image_of_COMSOL_OF_Semiconductor/截屏2022-07-03 下午3.27.09.png)
